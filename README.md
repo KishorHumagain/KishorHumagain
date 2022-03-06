@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KishorHumagain
 - 👀 I’m interested in Machine learning and Data Science
-- 🌱 I’m currently learning pytohn 
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ....
 - 📫 How to reach me humagainkishor7@gmail.com
 
